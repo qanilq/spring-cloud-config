@@ -1,4 +1,4 @@
 test:abc
 limit-service:
-  minimum:2
-  maximum:222
+  minimum: 2
+  maximum: 222
